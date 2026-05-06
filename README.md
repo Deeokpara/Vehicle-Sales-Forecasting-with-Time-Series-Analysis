@@ -37,9 +37,12 @@ Tools Used
 - Prophet
 - Power BI
 
+<img width="1569" height="895" alt="Screenshot 2026-05-06 031005" src="https://github.com/user-attachments/assets/e7190c05-9edf-4696-be90-9563b725321f" />
+
 Project Structure
 (see folders above)
 
 Author
 David Okpara
 https://roadmap.sh/projects/pandas-time-series (Advance)
+
